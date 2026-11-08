@@ -1,0 +1,11 @@
+{
+  "org": "EleutherAI",
+  "repo": "cookbook",
+  "versions": [
+    {
+      "commit": "827ee3b293a63f14403f1467d08c91fda213f4e6",
+      "tag": "",
+      "parsed_at": "2026-11-08T06:21:21.877065+00:00"
+    }
+  ]
+}
